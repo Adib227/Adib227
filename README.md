@@ -36,11 +36,6 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adib227&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adib227)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adib227&show_icons=true)  
- 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Adib227)  
 
