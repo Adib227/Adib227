@@ -48,6 +48,8 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 # 🤝 Connect with me
 
+<div style="height: 10px;"></div>
+
 <div align="center">
   
 
@@ -59,6 +61,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 </div>
 
+<div style="height: 10px;"></div>
 
 
 
