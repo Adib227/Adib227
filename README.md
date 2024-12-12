@@ -3,7 +3,7 @@
 # Hi there 👋
 
 
-### About me
+## About me
 My name is Iftekhar Aziz Adib.
 I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Node.js. My focus is on building robust, scalable, and user-friendly applications using modern web technologies.
 
