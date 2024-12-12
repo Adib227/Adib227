@@ -37,6 +37,6 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Adib227)  
+
 
 
