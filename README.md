@@ -33,7 +33,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 </div>
 
-<br><br>
+<br>
 
 
 
@@ -48,6 +48,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 # 🤝 Connect with me
 
+<br>
 
 <div align="center">
   
@@ -60,6 +61,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 </div>
 
+<br>
 
 
 
