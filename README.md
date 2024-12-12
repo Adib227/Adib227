@@ -20,9 +20,11 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 
 
-<br><br>
+
 
 # ⚙️ Technologies i know
+
+<br><br>
 
 <div align="center">
 
