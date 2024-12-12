@@ -1,8 +1,10 @@
 ![](https://i.ibb.co.com/GkhH9wK/Iftekhar-Aziz-Adib.png)
 
-### Hi there 👋, My name is Iftekhar Aziz Adib
+### Hi there 👋
+My name is Iftekhar Aziz Adib
 
-## About me
+### About me
+My name is Iftekhar Aziz Adib.
 I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Node.js. My focus is on building robust, scalable, and user-friendly applications using modern web technologies.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
