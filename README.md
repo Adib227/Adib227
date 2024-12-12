@@ -24,7 +24,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 # ⚙️ Technologies i know
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -49,7 +49,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 # 🤝 Connect with me
 
 
-<div align="center" style="padding: 20px 0;">
+<div align="center">
   
 
 
