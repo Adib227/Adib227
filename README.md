@@ -1,7 +1,7 @@
 ![](https://i.ibb.co.com/GkhH9wK/Iftekhar-Aziz-Adib.png)
 
 ### Hi there 👋
-My name is Iftekhar Aziz Adib
+
 
 ### About me
 My name is Iftekhar Aziz Adib.
