@@ -24,7 +24,7 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 # ⚙️ Technologies i know
 
-<div classname="my-8" align="center">
+<div classname="py-8" align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,tailwind,react,firebase,nextjs,mongodb,figma,express,bootstrap,nodejs)](https://skillicons.dev)
 
