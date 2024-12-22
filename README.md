@@ -13,10 +13,11 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 
 
-- 🔭 I’m currently working on Full-stack project 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development
+- 🔭 Currently working on Full-stack project 
+- 🌱 Exploting Next.js
+- 👯 Want to collaborate on github
+- 💬 Discuss with me about web development
+
 
 
 
