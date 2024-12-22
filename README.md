@@ -13,9 +13,9 @@ I am a MERN stack developer proficient in MongoDB, Express.js, React.js, and Nod
 
 
 
-- 🔭 Currently working on Full-stack project 
-- 🌱 Exploting Next.js
-- 👯 Want to collaborate on github
+- 🌐 Developing full-stack projects using modern web technologies
+- 🚀 Exploring advanced features of Next.js for dynamic web apps
+- 🤝 Open to collaborations on innovative GitHub projects
 - 💬 Discuss with me about web development
 
 
