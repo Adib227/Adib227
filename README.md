@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/GkhH9wK/Iftekhar-Aziz-Adib.png)
+![Banner](https://i.ibb.co.com/WNRzMH7M/grey-simple-minimalist-Linkedin-banner.png)
 
 
 
